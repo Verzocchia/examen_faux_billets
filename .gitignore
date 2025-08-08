@@ -1,3 +1,6 @@
-explo_p1.ipynb
+*.log
+*.tmp
+*.ipynb
+*.md
 test_.csv
 graph/
